@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="no_notes">No Notes found. Tap the "+" Button to add notes</string>
+    <string name="add_button">Add</string>
+    <string name="save_button">Save</string>
+</resources>
